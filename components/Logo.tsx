@@ -2,6 +2,8 @@ import { FC } from "react";
 import { Image, View, ViewProps } from "react-native";
 import Animated from "react-native-reanimated";
 
+// podria considerar diferentes formatos, tamanios y colores
+// pero para este ejemplo lo dejare asi
 const Logo: FC<ViewProps> = (props) => {
   return (
     <Animated.View {...props}>
