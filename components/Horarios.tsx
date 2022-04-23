@@ -1,17 +1,20 @@
 import { useTheme } from "@react-navigation/native";
 import { FC } from "react";
-import { Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 
 const Horarios: FC = () => {
   const { colors } = useTheme()
 
   return (
-    <View>
+    <View style={{
+      backgroundColor: colors.card,
+      paddingHorizontal: 10,
+      paddingBottom: 10
+    }}>
       <View
         style={{
           flexDirection: "row",
           justifyContent: "space-between",
-          marginTop: 10,
         }}
       >
         <Text style={{ color: colors.text }}>Lunes a Viernes:</Text>
@@ -30,5 +33,6 @@ const Horarios: FC = () => {
     </View>
   );
 };
+
 
 export default Horarios;

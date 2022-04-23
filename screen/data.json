@@ -1,0 +1,2068 @@
+[
+  {
+    "id": 10265,
+    "cod": "PI394",
+    "num": 2,
+    "pos": [-33.4685529, -70.7318949],
+    "name": "Paradero 7 de Pajaritos",
+    "comuna": "ESTACIÓN CENTRAL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 645,
+        "cod": "I08",
+        "destino": "a Metro Sn. A. Hurtado",
+        "orden": 28,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Sn. A. Hurtado" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 271,
+        "cod": "404c",
+        "destino": "a Metro Las Rejas",
+        "orden": 14,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 652,
+        "cod": "I09e",
+        "destino": "a Metro U. de Chile",
+        "orden": 22,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro U. de Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 117,
+        "cod": "405",
+        "destino": "a Cantagallo",
+        "orden": 30,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Cantagallo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 137,
+        "cod": "421",
+        "destino": "a Sn. C. de Apoquindo",
+        "orden": 38,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Sn. C. de Apoquindo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 820,
+        "cod": "106",
+        "destino": "a Peñalolén",
+        "orden": 33,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Peñalolén" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 650,
+        "cod": "I09c",
+        "destino": "a Metro Las Rejas",
+        "orden": 28,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 698,
+        "cod": "J08",
+        "destino": "a Lo Franco",
+        "orden": 18,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Lo Franco" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 109,
+        "cod": "401",
+        "destino": "a Las Condes",
+        "orden": 33,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Las Condes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 115,
+        "cod": "404",
+        "destino": "a Mapocho",
+        "orden": 14,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Mapocho" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 739,
+        "cod": "I08n",
+        "destino": "a Alameda",
+        "orden": 34,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Alameda" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 135,
+        "cod": "419",
+        "destino": "a Plaza Italia",
+        "orden": 48,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 299,
+        "cod": "431c",
+        "destino": "a Metro Las Rejas",
+        "orden": 33,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 648,
+        "cod": "I09",
+        "destino": "a Metro U. de Chile",
+        "orden": 30,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro U. de Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 279,
+        "cod": "413c",
+        "destino": "a Metro Las Rejas",
+        "orden": 30,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 141,
+        "cod": "423",
+        "destino": "a Plaza Italia",
+        "orden": 42,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 769,
+        "cod": "432n",
+        "destino": "a La Reina",
+        "orden": 37,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a La Reina" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": -0.20963002525506463
+  },
+  {
+    "id": 12492,
+    "cod": "PJ866",
+    "num": 3,
+    "pos": [-33.4690388, -70.7336259],
+    "name": " Pajaritos",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 699,
+        "cod": "J08",
+        "destino": "a Pudahuel Sur",
+        "orden": 39,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": -0.11988260907656226
+  },
+  {
+    "id": 163971,
+    "pos": [-33.46851146, -70.73082064],
+    "name": "INGRID",
+    "comuna": "PUDAHUEL",
+    "type": 1,
+    "direccion": "AV. LAS TORRES 34",
+    "distancia": -0.11230172894935486
+  },
+  {
+    "id": 12477,
+    "cod": "PJ1699",
+    "num": 3,
+    "pos": [-33.4675633, -70.7314625],
+    "name": "Paradero 7 de Pajaritos",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 699,
+        "cod": "J08",
+        "destino": "a Pudahuel Sur",
+        "orden": 38,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 143,
+        "cod": "424",
+        "destino": "a Metro U. De Chile",
+        "orden": 27,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Metro U. De Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": -0.10030011759750332
+  },
+  {
+    "id": 10258,
+    "cod": "PI411",
+    "num": 1,
+    "pos": [-33.4674779, -70.730669],
+    "name": "Paradero 7 de Pajaritos",
+    "comuna": "ESTACIÓN CENTRAL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 116,
+        "cod": "404",
+        "destino": "a El Descanso",
+        "orden": 21,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a El Descanso" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 653,
+        "cod": "I09e",
+        "destino": "a Rinconada",
+        "orden": 11,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Rinconada" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 649,
+        "cod": "I09",
+        "destino": "a Rinconada",
+        "orden": 16,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Rinconada" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 280,
+        "cod": "413c",
+        "destino": "a Avenida Portales",
+        "orden": 6,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Avenida Portales" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 821,
+        "cod": "106",
+        "destino": "a Nueva San Martín",
+        "orden": 70,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Nueva San Martín" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 118,
+        "cod": "405",
+        "destino": "a Maipú",
+        "orden": 61,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 136,
+        "cod": "419",
+        "destino": "a Villa Los Héroes",
+        "orden": 20,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Villa Los Héroes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 770,
+        "cod": "432n",
+        "destino": "a Maipú",
+        "orden": 70,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 651,
+        "cod": "I09c",
+        "destino": "a Rinconada",
+        "orden": 6,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Rinconada" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 138,
+        "cod": "421",
+        "destino": "a Maipú",
+        "orden": 64,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 646,
+        "cod": "I08",
+        "destino": "a Mall Arauco Maipú",
+        "orden": 10,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Mall Arauco Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 300,
+        "cod": "431c",
+        "destino": "a Nueva San Martín",
+        "orden": 6,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Nueva San Martín" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 272,
+        "cod": "404c",
+        "destino": "a El Descanso",
+        "orden": 6,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a El Descanso" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 740,
+        "cod": "I08n",
+        "destino": "a La Farfana",
+        "orden": 20,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a La Farfana" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 142,
+        "cod": "423",
+        "destino": "a 2ª Transversal",
+        "orden": 20,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a 2ª Transversal" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 110,
+        "cod": "401",
+        "destino": "a Maipú",
+        "orden": 65,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": -0.045981755879050984
+  },
+  {
+    "id": 10254,
+    "cod": "PI1541",
+    "num": 3,
+    "pos": [-33.4673661, -70.7307111],
+    "name": "Paradero 7 de Pajaritos",
+    "comuna": "ESTACIÓN CENTRAL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 144,
+        "cod": "424",
+        "destino": "a Pudahuel Sur",
+        "orden": 20,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": -0.04006446328030991
+  },
+  {
+    "id": 11164,
+    "cod": "PI393",
+    "num": 2,
+    "pos": [-33.4698398, -70.734149],
+    "name": " Pajaritos",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 137,
+        "cod": "421",
+        "destino": "a Sn. C. de Apoquindo",
+        "orden": 37,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Sn. C. de Apoquindo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 648,
+        "cod": "I09",
+        "destino": "a Metro U. de Chile",
+        "orden": 29,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro U. de Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 769,
+        "cod": "432n",
+        "destino": "a La Reina",
+        "orden": 36,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a La Reina" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 115,
+        "cod": "404",
+        "destino": "a Mapocho",
+        "orden": 13,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Mapocho" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 820,
+        "cod": "106",
+        "destino": "a Peñalolén",
+        "orden": 32,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Peñalolén" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 135,
+        "cod": "419",
+        "destino": "a Plaza Italia",
+        "orden": 47,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 141,
+        "cod": "423",
+        "destino": "a Plaza Italia",
+        "orden": 41,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 650,
+        "cod": "I09c",
+        "destino": "a Metro Las Rejas",
+        "orden": 27,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 739,
+        "cod": "I08n",
+        "destino": "a Alameda",
+        "orden": 33,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Alameda" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 117,
+        "cod": "405",
+        "destino": "a Cantagallo",
+        "orden": 29,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Cantagallo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 299,
+        "cod": "431c",
+        "destino": "a Metro Las Rejas",
+        "orden": 32,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 271,
+        "cod": "404c",
+        "destino": "a Metro Las Rejas",
+        "orden": 13,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 279,
+        "cod": "413c",
+        "destino": "a Metro Las Rejas",
+        "orden": 29,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 645,
+        "cod": "I08",
+        "destino": "a Metro Sn. A. Hurtado",
+        "orden": 27,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Sn. A. Hurtado" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 109,
+        "cod": "401",
+        "destino": "a Las Condes",
+        "orden": 32,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Las Condes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": -0.035995468203616016
+  },
+  {
+    "id": 11136,
+    "cod": "PI412",
+    "num": 1,
+    "pos": [-33.4696658, -70.734309],
+    "name": " Pajaritos",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 138,
+        "cod": "421",
+        "destino": "a Maipú",
+        "orden": 65,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 118,
+        "cod": "405",
+        "destino": "a Maipú",
+        "orden": 62,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 646,
+        "cod": "I08",
+        "destino": "a Mall Arauco Maipú",
+        "orden": 11,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Mall Arauco Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 280,
+        "cod": "413c",
+        "destino": "a Avenida Portales",
+        "orden": 7,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Avenida Portales" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 649,
+        "cod": "I09",
+        "destino": "a Rinconada",
+        "orden": 17,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Rinconada" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 770,
+        "cod": "432n",
+        "destino": "a Maipú",
+        "orden": 71,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 116,
+        "cod": "404",
+        "destino": "a El Descanso",
+        "orden": 22,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a El Descanso" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 821,
+        "cod": "106",
+        "destino": "a Nueva San Martín",
+        "orden": 71,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Nueva San Martín" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 740,
+        "cod": "I08n",
+        "destino": "a La Farfana",
+        "orden": 21,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a La Farfana" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 142,
+        "cod": "423",
+        "destino": "a 2ª Transversal",
+        "orden": 21,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a 2ª Transversal" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 651,
+        "cod": "I09c",
+        "destino": "a Rinconada",
+        "orden": 7,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Rinconada" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 136,
+        "cod": "419",
+        "destino": "a Villa Los Héroes",
+        "orden": 21,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Villa Los Héroes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 300,
+        "cod": "431c",
+        "destino": "a Nueva San Martín",
+        "orden": 7,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Nueva San Martín" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 110,
+        "cod": "401",
+        "destino": "a Maipú",
+        "orden": 66,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 272,
+        "cod": "404c",
+        "destino": "a El Descanso",
+        "orden": 7,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a El Descanso" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": -0.03384044779099918
+  },
+  {
+    "id": 165156,
+    "pos": [-33.46778922, -70.73003196],
+    "name": "533-MONTSERRAT PAJARITOS",
+    "comuna": "ESTACION CENTRAL",
+    "type": 1,
+    "direccion": "AV. GLADYS MARIN 6950",
+    "horarios": ["Lunes a Viernes: de 11:00 a 15:00 / 16:00 a 20:00"],
+    "distancia": -0.016594069266812395
+  },
+  {
+    "id": 163982,
+    "pos": [-33.4655, -70.732815],
+    "name": "LUCHITO",
+    "comuna": "PUDAHUEL",
+    "type": 1,
+    "direccion": "LOS PAJARITOS 69 B",
+    "distancia": 0.11241795031156826
+  },
+  {
+    "id": 164084,
+    "pos": [-33.47228728, -70.7327878],
+    "name": "MARY",
+    "comuna": "MAIPU",
+    "type": 1,
+    "direccion": "LOS CAPUCHINOS 378",
+    "distancia": 0.15049718315465527
+  },
+  {
+    "id": 12685,
+    "cod": "PJ867",
+    "pos": [-33.4676278, -70.7370527],
+    "name": "Diag. de los Lagos esq. Lago Las 3 Marías",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 699,
+        "cod": "J08",
+        "destino": "a Pudahuel Sur",
+        "orden": 40,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.2102652649473275
+  },
+  {
+    "id": 10253,
+    "cod": "PI526",
+    "pos": [-33.4646269, -70.7308799],
+    "name": "Avenida Las Torres esq. Pedro Lucio Cuadra",
+    "comuna": "ESTACIÓN CENTRAL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 144,
+        "cod": "424",
+        "destino": "a Pudahuel Sur",
+        "orden": 21,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 698,
+        "cod": "J08",
+        "destino": "a Lo Franco",
+        "orden": 19,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Lo Franco" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.22453970522597194
+  },
+  {
+    "id": 11592,
+    "cod": "PI1483",
+    "pos": [-33.4686658, -70.7376239],
+    "name": "Marta Ossa Ruíz esq. Av. Teniente Cruz",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 271,
+        "cod": "404c",
+        "destino": "a Metro Las Rejas",
+        "orden": 11,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 115,
+        "cod": "404",
+        "destino": "a Mapocho",
+        "orden": 11,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Mapocho" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": 0.24702228867189252
+  },
+  {
+    "id": 11250,
+    "cod": "PI447",
+    "num": 3,
+    "pos": [-33.4703158, -70.737316],
+    "name": "Paradero 8 Pajaritos",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 271,
+        "cod": "404c",
+        "destino": "a Metro Las Rejas",
+        "orden": 12,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 115,
+        "cod": "404",
+        "destino": "a Mapocho",
+        "orden": 12,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Mapocho" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 698,
+        "cod": "J08",
+        "destino": "a Lo Franco",
+        "orden": 17,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Lo Franco" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.250999153410671
+  },
+  {
+    "id": 12323,
+    "cod": "PJ241",
+    "pos": [-33.4675428, -70.737548],
+    "name": "Ailinco esq. Av. Teniente Cruz",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 143,
+        "cod": "424",
+        "destino": "a Metro U. De Chile",
+        "orden": 21,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Metro U. De Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.25720390167232743
+  },
+  {
+    "id": 12324,
+    "cod": "PJ248",
+    "pos": [-33.4674348, -70.737668],
+    "name": "Ailinco esq. Auka",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 699,
+        "cod": "J08",
+        "destino": "a Pudahuel Sur",
+        "orden": 41,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Pudahuel Sur" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.27117314797011594
+  },
+  {
+    "id": 11091,
+    "cod": "PI555",
+    "pos": [-33.4725769, -70.729023],
+    "name": "Av. Las Parcelas esq. Gracia de Dios",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 308,
+        "cod": "506v",
+        "destino": "a Villa El Abrazo",
+        "orden": 50,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Villa El Abrazo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 306,
+        "cod": "506e",
+        "destino": "a Maipú",
+        "orden": 24,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 170,
+        "cod": "506",
+        "destino": "a Maipú",
+        "orden": 50,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.27596477511675954
+  },
+  {
+    "id": 11085,
+    "cod": "PI1803",
+    "pos": [-33.4730545, -70.7292409],
+    "name": "Av. Las Parcelas esq. Ghandi",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 632,
+        "cod": "I03",
+        "destino": "a Metro Las Rejas",
+        "orden": 52,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ],
+    "distancia": 0.30982041441702535
+  },
+  {
+    "id": 11092,
+    "cod": "PI1313",
+    "pos": [-33.4736664, -70.7306788],
+    "name": "Av. Las Parcelas esq. Avenida Las Torres",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 170,
+        "cod": "506",
+        "destino": "a Maipú",
+        "orden": 51,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Maipú" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U5"
+      },
+      {
+        "id": 308,
+        "cod": "506v",
+        "destino": "a Villa El Abrazo",
+        "orden": 51,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Villa El Abrazo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.3212072298539477
+  },
+  {
+    "id": 11163,
+    "cod": "PI392",
+    "num": 2,
+    "pos": [-33.4719468, -70.73714],
+    "name": "Paradero 8 Pajaritos",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 109,
+        "cod": "401",
+        "destino": "a Las Condes",
+        "orden": 31,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Las Condes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 299,
+        "cod": "431c",
+        "destino": "a Metro Las Rejas",
+        "orden": 31,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 141,
+        "cod": "423",
+        "destino": "a Plaza Italia",
+        "orden": 40,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 820,
+        "cod": "106",
+        "destino": "a Peñalolén",
+        "orden": 31,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Peñalolén" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 117,
+        "cod": "405",
+        "destino": "a Cantagallo",
+        "orden": 28,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Cantagallo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 645,
+        "cod": "I08",
+        "destino": "a Metro Sn. A. Hurtado",
+        "orden": 26,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Sn. A. Hurtado" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 279,
+        "cod": "413c",
+        "destino": "a Metro Las Rejas",
+        "orden": 28,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 648,
+        "cod": "I09",
+        "destino": "a Metro U. de Chile",
+        "orden": 28,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro U. de Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 739,
+        "cod": "I08n",
+        "destino": "a Alameda",
+        "orden": 32,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Alameda" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 135,
+        "cod": "419",
+        "destino": "a Plaza Italia",
+        "orden": 46,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 650,
+        "cod": "I09c",
+        "destino": "a Metro Las Rejas",
+        "orden": 26,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 769,
+        "cod": "432n",
+        "destino": "a La Reina",
+        "orden": 35,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a La Reina" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 137,
+        "cod": "421",
+        "destino": "a Sn. C. de Apoquindo",
+        "orden": 36,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Sn. C. de Apoquindo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": 0.32766468589223596
+  },
+  {
+    "id": 11086,
+    "cod": "PI1799",
+    "pos": [-33.471719, -70.7272095],
+    "name": "Av. Las Parcelas esq. Santa Corina",
+    "comuna": "MAIPÚ",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 632,
+        "cod": "I03",
+        "destino": "a Metro Las Rejas",
+        "orden": 53,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ],
+    "distancia": 0.3280559210327041
+  },
+  {
+    "id": 12585,
+    "cod": "PJ242",
+    "pos": [-33.4654378, -70.737419],
+    "name": "Av. Teniente Cruz esq. Lago Neltume-Sur",
+    "comuna": "PUDAHUEL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 143,
+        "cod": "424",
+        "destino": "a Metro U. De Chile",
+        "orden": 22,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Metro U. De Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ],
+    "distancia": 0.35193294348355453
+  },
+  {
+    "id": 10260,
+    "cod": "PI395",
+    "pos": [-33.465756, -70.7268459],
+    "name": "Paradero 6 de Pajaritos",
+    "comuna": "ESTACIÓN CENTRAL",
+    "type": 0,
+    "servicios": [
+      {
+        "id": 117,
+        "cod": "405",
+        "destino": "a Cantagallo",
+        "orden": 31,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Cantagallo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      },
+      {
+        "id": 820,
+        "cod": "106",
+        "destino": "a Peñalolén",
+        "orden": 34,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Peñalolén" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 271,
+        "cod": "404c",
+        "destino": "a Metro Las Rejas",
+        "orden": 15,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 650,
+        "cod": "I09c",
+        "destino": "a Metro Las Rejas",
+        "orden": 29,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 279,
+        "cod": "413c",
+        "destino": "a Metro Las Rejas",
+        "orden": 31,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 739,
+        "cod": "I08n",
+        "destino": "a Alameda",
+        "orden": 35,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Alameda" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "id": 137,
+        "cod": "421",
+        "destino": "a Sn. C. de Apoquindo",
+        "orden": 39,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Sn. C. de Apoquindo" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 143,
+        "cod": "424",
+        "destino": "a Metro U. De Chile",
+        "orden": 28,
+        "color": "#0093B3",
+        "negocio": { "nombre": "Buses Metropolitana S.A.", "color": "#0093B3" },
+        "recorrido": { "destino": "a Metro U. De Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "id": 769,
+        "cod": "432n",
+        "destino": "a La Reina",
+        "orden": 38,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a La Reina" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 648,
+        "cod": "I09",
+        "destino": "a Metro U. de Chile",
+        "orden": 31,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro U. de Chile" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 141,
+        "cod": "423",
+        "destino": "a Plaza Italia",
+        "orden": 43,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 299,
+        "cod": "431c",
+        "destino": "a Metro Las Rejas",
+        "orden": 34,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Metro Las Rejas" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 135,
+        "cod": "419",
+        "destino": "a Plaza Italia",
+        "orden": 49,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Plaza Italia" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 115,
+        "cod": "404",
+        "destino": "a Mapocho",
+        "orden": 15,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Mapocho" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "id": 645,
+        "cod": "I08",
+        "destino": "a Metro Sn. A. Hurtado",
+        "orden": 29,
+        "color": "#00A77E",
+        "negocio": { "nombre": "Buses Vule S.A.", "color": "#00A77E" },
+        "recorrido": { "destino": "a Metro Sn. A. Hurtado" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "id": 109,
+        "cod": "401",
+        "destino": "a Las Condes",
+        "orden": 34,
+        "color": "#F7941D",
+        "negocio": {
+          "nombre": "Express de Santiago Uno S.A.",
+          "color": "#F7941D"
+        },
+        "recorrido": { "destino": "a Las Condes" },
+        "horarios": [{}],
+        "paradas": [],
+        "shapes": [],
+        "itinerario": true,
+        "codigo": "U4"
+      }
+    ],
+    "distancia": 0.35382613005242014
+  }
+]

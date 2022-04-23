@@ -9,7 +9,8 @@ const useTranslate = (orientation: "x" | "y", initialValue = 0) => {
           transform: [{ translateX: translate.value }],
         }
       : {
-          transform: [{ translateY: translate.value }],
+          // transform: [{ translateY: translate.value }],
+          // heigh: translate.value,
         };
   });
 

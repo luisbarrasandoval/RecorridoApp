@@ -11,13 +11,17 @@ const ResultInput: FC<{
   return (
     <View
       style={{
-        backgroundColor: colors.card,
-        width: "100%",
+        backgroundColor: colors.background,
+        marginTop: 0,
         maxHeight: 300,
+        borderWidth: 1,
+        borderTopWidth: 0,
         borderRadius: 5,
-        paddingVertical: 5,
-        marginTop: 5,
-        // position: "absolute" // usar modal para solucionar esto
+        borderTopEndRadius: 0,
+        borderTopStartRadius: 0,
+        top: -1,
+        width: "90%",
+        margin: "5%",
       }}
     >
       {data.length > 0 ? (

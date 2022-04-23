@@ -1,8 +1,20 @@
 import { useTheme } from "@react-navigation/native";
 import { FC, useState } from "react";
 import { Pressable, Text, View } from "react-native";
+import { Paradero } from "../interfaces/Paradero";
+import { Ionicons } from "@expo/vector-icons";
 
-const ParaderoItem: FC = () => {
+const ParaderoItem: FC<Paradero> = ({
+  id,
+  cod,
+  comuna,
+  name,
+  num,
+  pos,
+  servicios,
+  stop,
+  type,
+}) => {
   const { colors } = useTheme();
 
   const [active, setActive] = useState(false);
@@ -16,7 +28,7 @@ const ParaderoItem: FC = () => {
         setActive(false);
       }}
       style={{
-        backgroundColor: "white",
+        backgroundColor: colors.background,
         flexDirection: "row",
         paddingHorizontal: 20,
         alignItems: "center",
@@ -25,7 +37,7 @@ const ParaderoItem: FC = () => {
       <View
         style={{
           width: 20,
-          backgroundColor: active ? colors.primary : colors.background,
+          backgroundColor: active ? "red" : colors.card,
           alignItems: "center",
           justifyContent: "center",
           marginRight: 20,
@@ -37,7 +49,7 @@ const ParaderoItem: FC = () => {
             width: 40,
             height: 40,
             borderRadius: 40,
-            backgroundColor: active ? colors.primary : colors.background,
+            backgroundColor: active ? "red" : colors.card,
           }}
         ></View>
       </View>
@@ -52,17 +64,24 @@ const ParaderoItem: FC = () => {
           style={{
             fontWeight: "bold",
             fontSize: 24,
+            color: colors.textSecondary,
           }}
         >
-          PB1607
+          {cod}
         </Text>
         <Text
           style={{
             fontWeight: active ? "bold" : "normal",
+            color: colors.textSecondary,
           }}
         >
-          Avenida Recoleta esq. Jacarandá
+          {name}
         </Text>
+        <Text>{comuna}</Text>
+      </View>
+
+      <View>
+        
       </View>
     </Pressable>
   );
