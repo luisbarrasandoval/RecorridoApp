@@ -1,10 +1,15 @@
+import { FC } from "react";
 import { View, FlatList } from "react-native";
 import Horarios from "./Horarios";
 import ParaderoItem from "./ParaderoItem";
 
 const recorrido = require("../recorrido.json");
 
-const Resultado = () => {
+export interface ResultadoProps {
+  
+}
+
+const Resultado: FC<ResultadoProps> = () => {
   return (
     <View>
       <Horarios />

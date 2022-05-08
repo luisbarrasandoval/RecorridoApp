@@ -10,8 +10,8 @@ import Logo from "./Logo";
 import Input from "./Input";
 
 const HeaderSearch = () => {
-  const { translateY, arrayStyle, opacityLogo, rStyle } = useSearchAnimation();
   const { colors } = useTheme();
+  const { translateY, arrayStyle, opacityLogo, rStyle } = useSearchAnimation();
 
   return (
     <Animated.View

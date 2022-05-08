@@ -11,7 +11,7 @@ const Input: FC<InputProps> = ({ callback }) => {
   const { colors } = useTheme();
 
   const [value, setValue] = useState("");
-  const [visible, setVisible] = useState(true);
+  const [visible, setVisible] = useState(false);
   const refInput = useRef<TextInput>(null);
 
   const Search = (
@@ -85,6 +85,7 @@ const Input: FC<InputProps> = ({ callback }) => {
             callback={(s) => {
               setValue(s);
               setVisible(false);
+              refInput.current?.focus();
             }}
           />
         </View>

@@ -1,10 +1,11 @@
 import { FC, useEffect } from "react";
-import { Text, View } from "react-native";
+import { View } from "react-native";
 import Resultado from "../components/Resultados";
 
-import HeaderSearch from "../components/HeaderSearch";
 
-const New: FC<{ navigation: any }> = ({ navigation }) => {
+const New: FC<{ navigation: any }> = () => {
+
+
   return (
     <View>
       <Resultado />
