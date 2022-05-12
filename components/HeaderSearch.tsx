@@ -8,10 +8,13 @@ import useSearchAnimation, {
 import { Ionicons } from "@expo/vector-icons";
 import Logo from "./Logo";
 import Input from "./Input";
+import { useHeaderContext } from "../contexts/HeaderContext";
 
 const HeaderSearch = () => {
   const { colors } = useTheme();
   const { translateY, arrayStyle, opacityLogo, rStyle } = useSearchAnimation();
+
+  const { search, close } = useHeaderContext();
 
   return (
     <Animated.View
@@ -43,6 +46,7 @@ const HeaderSearch = () => {
             value=""
             callback={(t) => {
               translateY.value = withTiming(MIN_HEIGHT);
+              search(t);
             }}
           />
         </View>
